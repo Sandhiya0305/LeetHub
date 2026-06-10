@@ -5,4 +5,4 @@ class Solution:
             comp = target - nums[i] 
             if comp in nums:
                  ind = nums.index(comp)
-                 if ind != i: return sorted([i, nums.index(comp)])
+                 if ind != i: return sorted([i, ind])
