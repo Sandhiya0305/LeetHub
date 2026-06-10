@@ -3,4 +3,6 @@ class Solution:
         comp = 0
         for i in range(0, len(nums)):
             comp = target - nums[i] 
-            if comp in nums and nums.index(comp) != i: return sorted([i, nums.index(comp)])
+            if comp in nums:
+                 ind = nums.index(comp)
+                 if ind != i: return sorted([i, nums.index(comp)])
