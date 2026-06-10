@@ -17,12 +17,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sandhiya0305/LeetHub/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Sandhiya0305/LeetHub/tree/master/0202-happy-number) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sandhiya0305/LeetHub/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Sandhiya0305/LeetHub/tree/master/0014-longest-common-prefix) |
+| [0027-remove-element](https://github.com/Sandhiya0305/LeetHub/tree/master/0027-remove-element) |
 | [0217-contains-duplicate](https://github.com/Sandhiya0305/LeetHub/tree/master/0217-contains-duplicate) |
 | [1929-concatenation-of-array](https://github.com/Sandhiya0305/LeetHub/tree/master/1929-concatenation-of-array) |
 ## Simulation
