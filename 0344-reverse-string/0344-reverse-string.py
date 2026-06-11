@@ -5,9 +5,7 @@ class Solution:
         """
         f, l = 0, len(s) - 1
         while f < l:
-            t = s[f]
-            s[f] = s[l]
-            s[l] = t
+            s[f], s[l] = s[l], s[f]
             f += 1
             l -= 1
 
