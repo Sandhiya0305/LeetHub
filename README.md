@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Sandhiya0305/LeetHub/tree/master/0027-remove-element) |
 | [0202-happy-number](https://github.com/Sandhiya0305/LeetHub/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/Sandhiya0305/LeetHub/tree/master/0344-reverse-string) |
 ## Array
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sandhiya0305/LeetHub/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/Sandhiya0305/LeetHub/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/Sandhiya0305/LeetHub/tree/master/0344-reverse-string) |
 ## Trie
 |  |
 | ------- |
