@@ -3,5 +3,5 @@ class Solution:
         r = ""
         s = s.lower()
         for i in s:
-            if i.isalpha() or i.isnumeric(): r += i
+            if i.isalnum(): r += i
         return r == r[::-1]
